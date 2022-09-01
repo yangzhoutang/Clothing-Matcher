@@ -1,4 +1,4 @@
-# Clothing-Matcher
+# Beyond Closet
 Use a combination of CV and fashion theory, provide a clothing matcher to help people decide what to dress。
 
 ### This project is contributed by *Yangzhou Tang*, *Kaihang Zhao*, *Fan Li* and *Chenjia Guo*.
